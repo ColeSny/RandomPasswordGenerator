@@ -8,6 +8,9 @@ import java.util.Scanner;
  * Lowercase letters
  * Numbers
  * Special Characters
+ * 
+ * To do:
+ * add type checking and check the final password before its sent
  */
 public class RandomPasswordGenerator {
     private static Scanner kb = new Scanner(System.in);
